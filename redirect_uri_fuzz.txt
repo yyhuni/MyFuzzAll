@@ -1,0 +1,20 @@
+##OAuth 2.0的redirect_uri参数fuzz，替换dnslog地址
+
+baw6km.dnslog.cn.
+?baw6km.dnslog.cn
+?@baw6km.dnslog.cn
+baw6km.dnslog.cn@
+baw6km.dnslog.cn\@
+\baw6km.dnslog.cn
+:\baw6km.dnslog.cn
+\.baw6km.dnslog.cn
+:\@baw6km.dnslog.cn
+\@baw6km.dnslog.cn
+#baw6km.dnslog.cn
+\?baw6km.dnslog.cn
+\baw6km.dnslog.cn
+.baw6km.dnslog.cn
+:80#@baw6km.dnslog.cn
+../../../../../baw6km.dnslog.cn
+
+
